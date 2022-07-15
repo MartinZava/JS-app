@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar .container-fluid{
+    display: flex;
+    justify-content: center;
+}
+
+.navbar-brand{
+    font-size: 3.25rem;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.container{
+    margin-top: 10rem;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+#enlace{
+    display: flex;
+    justify-content: center;
+}
+
+.centrado{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+    column-gap: 50px;
+}
+
+.button-container{
+    display: flex;
+    justify-content: center;
+}
+
+.img-cart{
+    width: 100%;
+}
+
+.agregar-carrito{
+    display: flex;
+    justify-content: center;    
+}
+
+.centrado-cart{
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+    color: red;
+}
+
+
+
+
+
+
+
