@@ -64,6 +64,16 @@ a{
 }
 
 
+.show{
+    display: flex;
+    justify-content: center;
+}
+
+#carrito{
+    width: 50%;
+}
+
+
 
 
 
