@@ -33,6 +33,23 @@ h1{
     
 }
 
+.card-title{
+    display: flex;
+    justify-content: center;
+    font-size:30px
+}
+
+.card-text{
+    display: flex;
+    justify-content: center;
+}
+
+.precio{
+    display: flex;
+    justify-content: center;
+    font-size:xx-large
+}
+
 .row{
     display: flex;
     justify-content: center;
